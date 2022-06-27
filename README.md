@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mat5098
 - 👀 I’m interested in programming, sport, game
 - 🌱 I’m currently learning Ruby on Rails
-- 💞️ I'm looking for my first job to get experience ...
+- 💞️ I'm looking for my first job to get experience
 - 📫 How to reach me ...
 
 <!---
