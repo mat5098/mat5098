@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mat5098&label=Profile%20views&color=0e75b6&style=flat" alt="mat5098" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Ruby on Rails**
+- 🔭 I’m currently working on **Scheduled Tweets**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
