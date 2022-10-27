@@ -9,9 +9,11 @@
 
 - 👯 I’m looking **First job (intern)**
 
-- 👨‍💻 All of my projects (public) are available at [https://github.com/mat5098](https://github.com/mat5098)
+- 👨‍💻 All of my projects (public) are available at [github.com/mat5098](https://github.com/mat5098)
 
 - 📫 How to reach me **mezyk50@gmail.com**
+
+- 👨‍💻 All of my projects are available at [mateusz-mezyk.herokuapp.com](https://mateusz-mezyk.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
