@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mat5098&label=Profile%20views&color=0e75b6&style=flat" alt="mat5098" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Web**
+- 🔭 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking **First job (intern)**
+- 👯 I’m looking **First job Ruby on Rails**
 
 - 👨‍💻 All of my projects (public) are available at [github.com/mat5098](https://github.com/mat5098)
 
 - 📫 How to reach me **mezyk50@gmail.com**
 
-- 👨‍💻 All of my projects are available at [mateusz-mezyk.herokuapp.com](https://mateusz-mezyk.herokuapp.com/)
+- 💻 My short website [mateusz-mezyk.herokuapp.com](https://mateusz-mezyk.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
