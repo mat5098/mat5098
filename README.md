@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking **First job Ruby on Rails**
+- 👯 I’m looking **Job Ruby on Rails**
 
 - 👨‍💻 All of my projects (public) are available at [github.com/mat5098](https://github.com/mat5098)
 
