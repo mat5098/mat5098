@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mat5098&label=Profile%20views&color=0e75b6&style=flat" alt="mat5098" /> </p>
 
-- 🔭 I’m currently working on **The Odin Project** (learning and mini projects)
+- 🔭 I’m currently working on **The Odin Project** (learning and creating mini projects)
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
